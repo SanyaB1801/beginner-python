@@ -1,6 +1,3 @@
-Sure! Here's a draft for your README file:
-
----
 
 # Beginner Python Programs
 
@@ -79,11 +76,3 @@ Contributions are welcome! If you have any beginner-level Python programs that y
 3. Make your changes.
 4. Commit and push your changes.
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize it further to better fit your needs!
